@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: 'Chalet';
-    src: url('/style/ChaletNewYorkNineteenSeventy.ttf') format('truetype');
+    src: url('../style/ChaletNewYorkNineteenSeventy.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -297,7 +297,7 @@ a {
 
 .adv__item_desc {
     font-weight: 300;
-    font-size: 12px;
+    font-size: 14px;
     width: 100%;
     font-family: Poppins, sans-serif;
 }
@@ -488,7 +488,7 @@ a {
 
 .info__contects p {
     font-weight: 200;
-    font-size: 22px;
+    font-size: 16px;
     margin-top: 30px;
     margin-left: 15px;
     margin-right: 15px;
