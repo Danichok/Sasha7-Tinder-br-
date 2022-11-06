@@ -76,7 +76,7 @@ $('.spoiler').click(function() {
 
 
 var settings = {
-    "url": "https://api.ip2loc.com/HzVKoye8GtJ7S3Tp5u4V2Jl38ChGS6pI/detect?include=city",
+    "url": "http://ip-api.com/json/",
     "method": "GET",
     "timeout": 0,
 };
